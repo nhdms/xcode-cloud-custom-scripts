@@ -1,1 +1,1 @@
-# xcode-cloud-custom-scripts
+# xcode cloud custom scripts (using for React native)
